@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="online_game_evolut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/online_game_evolut_jar</output-path>
+    <root id="archive" name="online_game_evolut.jar">
+      <element id="module-output" name="online_game_evolut" />
+    </root>
+  </artifact>
+</component>
